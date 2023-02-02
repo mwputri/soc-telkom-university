@@ -1,0 +1,90 @@
+/* Carousel */
+.carousel-inner {
+    width: 20rem;
+    height: auto;
+}
+
+.carousel img {
+    width: 20rem;
+    height: auto;
+    padding: 2rem;
+}
+
+.carousel-title {
+    color: #ff4747;
+    font-weight: 600;
+}
+
+/* Divider */
+.astrodivider {
+    max-width: 100%;
+    position: relative;
+}
+
+.astrodividermask {
+    overflow: hidden;
+    height: 20px;
+}
+
+.astrodividermask:after {
+    content: "";
+    display: block;
+    margin: -25px auto 0;
+    width: 100%;
+    height: 25px;
+    border-radius: 125px / 12px;
+    box-shadow: 0 0 8px #5aa1e3;
+}
+
+/* Button */
+.btn-kk-se {
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #bf0000;
+    color: white;
+    border: 0;
+}
+
+/* Based on Screen */
+@media screen and (max-width: 768px) {
+    .banner-se {
+        background-image: url("assets/img/banner-se.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 20vh;
+    }
+
+    .banner-research {
+        background-image: url("assets/img/banner-penelitian.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 20vh;
+    }
+
+    .banner-field img {
+        width: 100%;
+        height: 20vh;
+        object-fit: contain;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    /* Carousel */
+    .carousel-inner {
+        width: 20rem;
+        height: auto;
+    }
+
+    .carousel img {
+        width: 20rem;
+        height: auto;
+        padding: 3rem;
+    }
+
+    .carousel-title {
+        color: #ff4747;
+        font-weight: 600;
+    }
+}

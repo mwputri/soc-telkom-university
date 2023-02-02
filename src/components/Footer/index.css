@@ -1,0 +1,15 @@
+@media (min-width: 600px) {
+  .contactUsContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    text-align: left;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .contactUsContainer {
+
+  }
+}

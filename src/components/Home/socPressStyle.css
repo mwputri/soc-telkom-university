@@ -1,0 +1,29 @@
+@media (min-width: 600px) {
+  .figCaptionContainer {
+    padding-top: 3rem;
+  }
+
+  .imgContainer {
+    margin-top: 5rem;
+  }
+
+  .imgSoc {
+    height: 'auto';
+    width: 325px;
+  }
+}
+
+@media (max-width: 600px) {
+  .imgContainer {
+    margin-top: 1rem;
+  }
+
+  .imgSoc {
+    height: 'auto';
+    width: 75px;
+  }
+
+  .desc {
+    font-size: 0
+  }
+}

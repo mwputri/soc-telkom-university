@@ -1,0 +1,70 @@
+[
+  {
+    "path": "/",
+    "name": "Tentang",
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Visi dan Misi"
+      },
+      {
+        "path": "/",
+        "name": "Struktur Organisasi"
+      },
+      {
+        "path": "/",
+        "name": "Fakta & Figur"
+      },
+      {
+        "path": "/",
+        "name": "Sejarah"
+      },
+      {
+        "path": "/",
+        "name": "Rencana Stragtegis"
+      },
+      {
+        "path": "/",
+        "name": "Prestasi"
+      },
+      {
+        "path": "/",
+        "name": "Lokasi Kami"
+      }
+    ]
+  },
+  {
+    "path": "/",
+    "name": "Sivitas",
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Dosen"
+      },
+      {
+        "path": "/",
+        "name": "Staf Administrasi"
+      }
+    ]
+  },
+  {
+    "path": "/",
+    "name": "Akademik",
+    "SubMenu": []
+  },
+  {
+    "path": "/",
+    "name": "Riset",
+    "SubMenu": []
+  },
+  {
+    "path": "/",
+    "name": "Pengabdian Masyarakat",
+    "SubMenu": []
+  },
+  {
+    "path": "/",
+    "name": "Labolatorium",
+    "SubMenu": []
+  }
+]
