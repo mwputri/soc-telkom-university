@@ -4,7 +4,7 @@
     "name": "Tentang",
     "SubMenu": [
       {
-        "path": "/",
+        "path": "/visi-misi",
         "name": "Visi dan Misi"
       },
       {
@@ -28,7 +28,7 @@
         "name": "Prestasi"
       },
       {
-        "path": "/",
+        "path": "/lokasi-kami",
         "name": "Lokasi Kami"
       }
     ]
