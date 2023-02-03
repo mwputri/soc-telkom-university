@@ -60,11 +60,38 @@
   {
     "path": "/",
     "name": "Pengabdian Masyarakat",
-    "SubMenu": []
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Rencana Pengabdian Masyarakat"
+      },
+      {
+        "path": "/",
+        "name": "Program Pengabdian Masyarakat"
+      },
+      {
+        "path": "/",
+        "name": "Galeri Pengabdian Masyarakat"
+      }
+    ]
   },
   {
     "path": "/",
     "name": "Labolatorium",
-    "SubMenu": []
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Laboratoroium Riset"
+      },
+      {
+        "path": "/",
+        "name": "IF-Lab"
+      },
+      {
+        "path": "/",
+        "name": "Software Engineering-Lab"
+      }
+      
+    ]
   }
 ]
