@@ -4,6 +4,8 @@ import {Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar'
 import AboutUs from './pages/AboutUs/AboutUs'
 import Civitas from './pages/Civitas/Civitas'
+import LokasiKami from './pages/Lokasi-Kami/Lokasi-Kami'
+import VisiMisi from './pages/VisiMisi/VisiMisi'
 import data from 'assets/data/data.json'
 import Footer from "./components/Footer/";
 
@@ -26,6 +28,8 @@ function App() {
             <Routes>
                 <Route path="/" element={<AboutUs/>}/>
                 <Route path="/civitas" element={<Civitas data={lectureData} handleChange={handleSearch}/>}/>
+                <Route path="/lokasi-Kami" element={<LokasiKami data={lectureData} handleChange={handleSearch}/>}/>
+                <Route path="/visi-misi" element={<VisiMisi data={lectureData} handleChange={handleSearch}/>}/>
             </Routes>
             <Footer/>
 
