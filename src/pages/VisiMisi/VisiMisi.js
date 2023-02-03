@@ -6,7 +6,7 @@ const VisiMisi = ({ data, handleChange }) => {
     <div>
       <div className="p-lg-5" style={{ overflowX: "auto" }}>
         <div className="container">
-          <div className="content">
+          <div className="content visi-misi">
             <div className="row">
               <div className="visi">
                 <h1>VISI</h1>
