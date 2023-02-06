@@ -11,6 +11,7 @@ import Sejarah from './pages/Sejarah/Sejarah'
 import Fasilitas from './pages/Fasilitas/Fasilitas'
 import data from 'assets/data/data.json'
 import Footer from "./components/Footer/";
+import LabRiset from './pages/Lab-Riset/Lab-Riset'
 
 function App() {
     const [lectureData, setLectureData] = useState();
@@ -36,6 +37,7 @@ function App() {
                 <Route path="/rencana-strategis-fakultas-informatika" element={<Rencana data={lectureData} handleChange={handleSearch}/>}/>
                 <Route path="/sejarah-fakultas-informatika" element={<Sejarah data={lectureData} handleChange={handleSearch}/>}/>
                 <Route path="/fasilitas" element={<Fasilitas data={lectureData} handleChange={handleSearch}/>}/>
+                <Route path="/Lab-Riset" element={<LabRiset data={lectureData} handleChange={handleSearch}/>}/>
             </Routes>
             <Footer/>
 

@@ -80,7 +80,7 @@
     "name": "Labolatorium",
     "SubMenu": [
       {
-        "path": "/",
+        "path": "/Lab-Riset",
         "name": "Laboratoroium Riset"
       },
       {
