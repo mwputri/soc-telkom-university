@@ -1,0 +1,17 @@
+.content-sejarah {
+  text-align: justify;
+}
+
+.sejarah img {
+  width: 100%;
+}
+
+.dekan-sejarah {
+  padding-top: 12px;
+  text-align: left;
+}
+
+.col-sejarah img{
+  width: 150px;
+  height: 100%; 
+}
