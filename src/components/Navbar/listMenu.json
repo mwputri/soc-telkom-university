@@ -12,11 +12,11 @@
         "name": "Struktur Organisasi"
       },
       {
-        "path": "/",
+        "path": "/fasilitas",
         "name": "Fakta & Figur"
       },
       {
-        "path": "/",
+        "path": "/sejarah",
         "name": "Sejarah"
       },
       {
@@ -38,7 +38,7 @@
     "name": "Sivitas",
     "SubMenu": [
       {
-        "path": "/",
+        "path": "/Civitas",
         "name": "Dosen"
       },
       {
