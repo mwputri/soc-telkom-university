@@ -134,19 +134,19 @@
         "name": "Kelompok Keahlian",
         "SubMenu" : [
           {
-            "path": "/",
+            "path": "https://datascience.rg.telkomuniversity.ac.id/landing/",
             "name": "Data Science"
           },
           {
-            "path": "/",
+            "path": "https://is.rg.telkomuniversity.ac.id/landingpage/",
             "name": "Intelligent Systems"
           },
           {
-            "path": "/",
+            "path": "https://cps.rg.telkomuniversity.ac.id/landingpage/",
             "name": "Cyber Physical Systems"
           },
           {
-            "path": "/",
+            "path": "https://se.rg.telkomuniversity.ac.id/landingpage/",
             "name": "Software Engineering"
           }
         ]
