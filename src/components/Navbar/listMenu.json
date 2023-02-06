@@ -25,7 +25,21 @@
       },
       {
         "path": "/",
-        "name": "Prestasi"
+        "name": "Prestasi",
+        "SubMenu": [
+          {
+            "path": "/",
+            "name": "Prestasi Mahasiswa"
+          },
+          {
+            "path": "/",
+            "name": "Prestasi Dosen"
+          },
+          {
+            "path": "/",
+            "name": "Prestasi Fakultas"
+          }
+        ]
       },
       {
         "path": "/lokasi-kami",
@@ -54,7 +68,7 @@
       {
         "path": "/",
         "name": "Sarjana",
-        "SubMenu":[
+        "SubMenu": [
           {
             "path": "/",
             "name": "S1 Informatika"
@@ -79,11 +93,27 @@
       },
       {
         "path": "/",
-        "name": "Magister"
+        "name": "Magister",
+        "SubMenu": [
+          {
+            "path": "/",
+            "name": "S2 Informatika"
+          },
+          {
+            "path": "https://msf.telkomuniversity.ac.id/",
+            "name": "S2 Forensik Digital dan Keamanan Siber"
+          }
+        ]
       },
       {
         "path": "/",
-        "name": "Doktor"
+        "name": "Doktor",
+        "SubMenu": [
+          {
+            "path": "https://docif.telkomuniversity.ac.id/vision-and-mission/",
+            "name": "S3 Informatika"
+          }
+        ]
       },
       {
         "path": "https://telkomuniversity.ac.id/akreditasi/",
@@ -101,7 +131,25 @@
     "SubMenu": [
       {
         "path": "/",
-        "name": "Kelompok Keahlian"
+        "name": "Kelompok Keahlian",
+        "SubMenu" : [
+          {
+            "path": "/",
+            "name": "Data Science"
+          },
+          {
+            "path": "/",
+            "name": "Intelligent Systems"
+          },
+          {
+            "path": "/",
+            "name": "Cyber Physical Systems"
+          },
+          {
+            "path": "/",
+            "name": "Software Engineering"
+          }
+        ]
       },
       {
         "path": "/",
@@ -109,18 +157,84 @@
       },
       {
         "path": "/",
-        "name": "Kegitan Penelitian"
+        "name": "Kegitan Penelitian",
+        "SubMenu" : [
+          {
+            "path": "/",
+            "name": "Data Science"
+          },
+          {
+            "path": "/",
+            "name": "Intelligent Systems"
+          },
+          {
+            "path": "/",
+            "name": "Cyber Physical Systems"
+          },
+          {
+            "path": "/",
+            "name": "Software Engineering"
+          }
+        ]
       },
       {
         "path": "/",
-        "name": "Konfrensi"
+        "name": "Rencana Penelitian",
+        "SubMenu" : [
+          {
+            "path": "/",
+            "name": "Data Science"
+          },
+          {
+            "path": "/",
+            "name": "Intelligent Systems"
+          },
+          {
+            "path": "/",
+            "name": "Cyber Physical Systems"
+          },
+          {
+            "path": "/",
+            "name": "Software Engineering"
+          }
+        ]
       },
       {
         "path": "/",
-        "name": "Jurnal"
+        "name": "Konfrensi",
+        "SubMenu" : [
+          {
+            "path": "https://www.icoict.org/",
+            "name": "ICoICT"
+          },
+          {
+            "path": "https://commdis.telkomuniversity.ac.id/icodsa/2021/",
+            "name": "ICoDSA"
+          },
+          {
+            "path": "https://icicyta.telkomuniversity.ac.id/2022/",
+            "name": "ICICyTA"
+          },
+          {
+            "path": "https://icsecs.ump.edu.my/index.php/en/",
+            "name": "ICSECS"
+          }
+        ]
+      },
+      {
+        "path": "/",
+        "name": "Jurnal",
+        "SubMenu" : [
+          {
+            "path": "https://socj.telkomuniversity.ac.id/ojs/index.php/ijoict/index",
+            "name": "IJoICT"
+          },
+          {
+            "path": "https://socj.telkomuniversity.ac.id/ojs/index.php/ijoict/index",
+            "name": "IndoJC"
+          }
+        ]
       }
-
-
     ]
   },
   {
@@ -129,7 +243,25 @@
     "SubMenu": [
       {
         "path": "/",
-        "name": "Rencana Pengabdian Masyarakat"
+        "name": "Rencana Pengabdian Masyarakat",
+        "SubMenu" : [
+          {
+            "path": "/",
+            "name": "Data Science"
+          },
+          {
+            "path": "/",
+            "name": "Intelligent Systems"
+          },
+          {
+            "path": "/",
+            "name": "Cyber Physical Systems"
+          },
+          {
+            "path": "/",
+            "name": "Software Engineering"
+          }
+        ]
       },
       {
         "path": "/",
@@ -157,7 +289,6 @@
         "path": "https://rplgdc.netlify.app/",
         "name": "Software Engineering-Lab"
       }
-      
     ]
   }
 ]
