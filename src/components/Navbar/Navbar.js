@@ -43,8 +43,8 @@ const Navbar = () => {
                                         aria-labelledby="dropdownLargeButton">
 
                                         {detail.SubMenu.map((subDetail, idSub) => (
-                                            <li aria-labelledby={subDetail.subDetail ? "dropdownNavbarLink" + idSub + "-" + id + subDetail.name : ""}>
-                                                {subDetail.subDetail ?
+                                            <li aria-labelledby={subDetail.SubMenu ? "dropdownNavbarLink" + idSub + "-" + id + subDetail.name : ""}>
+                                                {subDetail.SubMenu ?
                                                     <>
                                                         <a id="doubleDropdownButton"
                                                            data-dropdown-toggle="doubleDropdown"
@@ -62,7 +62,7 @@ const Navbar = () => {
                                                              className="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 ">
                                                             <ul className="py-2 text-sm text-gray-700 "
                                                                 aria-labelledby="doubleDropdownButton">
-                                                                {subDetail.listMenu.map((detailData, id) => (
+                                                                {subDetail.SubMenu.map((detailData, id) => (
                                                                     <li>
                                                                         <a href={detailData.path}
                                                                            className="block px-4 py-2 hover:bg-gray-100 ">{detailData.name}</a>
