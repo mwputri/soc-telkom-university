@@ -50,12 +50,66 @@
   {
     "path": "/",
     "name": "Akademik",
-    "SubMenu": []
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Sarjana",
+        "SubMenu":[
+          {
+            "path": "/",
+            "name": "S1 Informatika"
+          },
+          {
+            "path": "/",
+            "name": "S1 Teknologi Informasi"
+          }
+        ]
+      },
+      {
+        "path": "/",
+        "name": "Magister"
+      },
+      {
+        "path": "/",
+        "name": "Doktor"
+      },
+      {
+        "path": "https://telkomuniversity.ac.id/akreditasi/",
+        "name": "Akreditasi"
+      },
+      {
+        "path": "/",
+        "name": "Informasi akademik"
+      }
+    ]
   },
   {
     "path": "/",
     "name": "Riset",
-    "SubMenu": []
+    "SubMenu": [
+      {
+        "path": "/",
+        "name": "Kelompok Keahlian"
+      },
+      {
+        "path": "/",
+        "name": "Penelitian Unggulan"
+      },
+      {
+        "path": "/",
+        "name": "Kegitan Penelitian"
+      },
+      {
+        "path": "/",
+        "name": "Konfrensi"
+      },
+      {
+        "path": "/",
+        "name": "Jurnal"
+      }
+
+
+    ]
   },
   {
     "path": "/",
@@ -84,11 +138,11 @@
         "name": "Laboratoroium Riset"
       },
       {
-        "path": "/",
+        "path": "https://informatics.labs.telkomuniversity.ac.id/",
         "name": "IF-Lab"
       },
       {
-        "path": "/",
+        "path": "https://rplgdc.netlify.app/",
         "name": "Software Engineering-Lab"
       }
       
