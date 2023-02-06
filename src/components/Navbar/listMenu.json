@@ -62,6 +62,18 @@
           {
             "path": "/",
             "name": "S1 Teknologi Informasi"
+          },
+          {
+            "path": "/",
+            "name": "S1 Rekayasa Perangkat Lunak"
+          },
+          {
+            "path": "/",
+            "name": "S1 Sains Data"
+          },
+          {
+            "path": "/",
+            "name": "S1 PJJ Informatika"
           }
         ]
       },
