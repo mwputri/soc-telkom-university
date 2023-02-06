@@ -112,7 +112,7 @@ const Sambutan = () => {
                                             <p>16</p>
                                         </figcaption>
                                         <figcaption
-                                            class="absolute px-4 pb-2 text-lg text-white bottom-0 text-left bg-black bg-opacity-50">
+                                            className="absolute px-4 pb-2 text-lg text-white bottom-0 text-left bg-black bg-opacity-50">
                                             <p>Seminar Microsoft Azure Database as a Service </p>
                                         </figcaption>
                                     </figure>
