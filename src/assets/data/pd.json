@@ -1,0 +1,38 @@
+[
+    {
+        "No" : 1,
+        "Nama_Dosen" : "Prof. Dr. Maman Abdurohman, S.T., M.T",
+        "Prestasi" : "Narasumber PO PAK 2019 dan Supleme di Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Lembaga Layanan Pendidikan Tinggi Wilayah IV (Nasional)",
+        "Tahun" : 2022
+    },
+    {
+        "No" : 2,
+        "Nama_Dosen" : "Dr. Didit Adytia, S.SI., M.Si",
+        "Prestasi" : "Narasumber Workshop on Inverse Problems and Optimal Control di University of Duisburg dan Chinese University of Hong Kong (Internasional)",
+        "Tahun" : 2022
+    },
+    {
+        "No" : 3,
+        "Nama_Dosen" : "Prof.Dr. Suyanto, S.T., M.Sc",
+        "Prestasi" : "Narasumber Workshop Pengembangan Kemitraan Dengan DUDI (Dunia Industri) Untuk Mendukung Kompetensi Data Science Bagi Program Studi Sistem Informasi di Universitas Duta Bangsa Surakarta (Nasional)",
+        "Tahun" : 2022
+    },
+    {
+        "No" : 4,
+        "Nama_Dosen" : "Dr. Arie Ardiyanti Suryani, S.T., M.T.",
+        "Prestasi" : "Narasumber Desiminasi Hasil Rumusan Kelompok Kerja Kurikulum Infokom bidang Teknik Informatika di Universitas Muhammadiyah Cirebon Fakultas Teknik (Nasional)",
+        "Tahun" : 2022
+    },
+    {
+        "No" : 5,
+        "Nama_Dosen" : "Prof.Dr. Suyanto, S.T., M.Sc",
+        "Prestasi" : "Penerima Penghargaan Buku (Pustaka )Terbaik Tahun 2022 atas karya yang berjudul “Deep Learning : Modernisasi Machine Learning untuk Big Data”",
+        "Tahun" : 2022
+    },
+    {
+        "No" : 6,
+        "Nama_Dosen" : "Dana Sulistyo Kusumo, S.T., M.T., Ph.D.",
+        "Prestasi" : "Penilaian Karya dan Babak Final Gemastik Tahun 2022 Kementerian Pendidikan, Kebudayaan, Riset, Dan Teknologi Balai Pengembangan Talenta Indonesia pada tanggal periode 21-25 November 2022",
+        "Tahun" : 2022
+    }
+]

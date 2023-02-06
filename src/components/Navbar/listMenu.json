@@ -28,11 +28,11 @@
         "name": "Prestasi",
         "SubMenu": [
           {
-            "path": "/",
+            "path": "/Prestasi-Mahasiswa",
             "name": "Prestasi Mahasiswa"
           },
           {
-            "path": "/",
+            "path": "/Prestasi-Dosen",
             "name": "Prestasi Dosen"
           },
           {
@@ -52,11 +52,11 @@
     "name": "Sivitas",
     "SubMenu": [
       {
-        "path": "/Civitas",
+        "path": "/Dosen",
         "name": "Dosen"
       },
       {
-        "path": "/",
+        "path": "/Staff-Administrasi",
         "name": "Staf Administrasi"
       }
     ]

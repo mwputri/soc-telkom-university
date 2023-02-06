@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Civitas = ({data, handleChange}) => {
+const StaffAdministrasi = ({sa, handleChange}) => {
     return (
         <div>
             <div className="input-group px-5 py-3 d-md-block d-lg-none">
@@ -15,26 +15,20 @@ const Civitas = ({data, handleChange}) => {
                     <thead>
                     <tr>
                         <th scope="col">NO</th>
+                        <th scope="col">Nama</th>
                         <th scope="col">NIP</th>
-                        <th scope="col">NAMA</th>
-                        <th scope="col">KODE</th>
-                        <th scope="col">NIDN</th>
-                        <th scope="col">PROGRAM STUDI</th>
-                        <th scope="col">KELOMPOK KEAHLIAN</th>
-                        <th scope="col">e-mail Tel-U</th>
+                        <th scope="col">POSISI KERJA</th>
+                        <th scope="col">EMAIL</th>
                     </tr>
                     </thead>
                     <tbody>
-                    {data && data?.map((d) => (
+                    {sa && sa?.map((d) => (
                         <tr key={d.NO}>
                             <td>{d.NO}</td>
+                            <td>{d.NAMA}</td>
                             <td>{d.NIP}</td>
-                            <td>{d.NAMA_LENGKAP}</td>
-                            <td>{d.KODE_DOSEN || '-'}</td>
-                            <td>{d.NIDN || '-'}</td>
-                            <td>{d.LOKASI_KERJA}</td>
-                            <td>{d.KELOMPOK_KEAHLIAN || '-'}</td>
-                            <td>{d.EMAIL || '-'}</td>
+                            <td>{d.POSISI_KERJA}</td>
+                            <td>{d.EMAIL}</td>
                         </tr>
                     ))}
                     </tbody>
@@ -44,4 +38,4 @@ const Civitas = ({data, handleChange}) => {
     )
 }
 
-export default Civitas
+export default StaffAdministrasi
