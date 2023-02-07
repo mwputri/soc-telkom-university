@@ -56,7 +56,7 @@ const Rencana = () => {
             4. 2022: <b>Enterpreneurial Culture Excellence</b>, difokuskan untuk
             mengembangkan kewirausahaan di kalangan mahasiswa dan dosen.
             Penelitian-penelian di lingkungan fakultas mampu menghasilkan TRL
-            >6, sehingga kuantitas hilirisasi dan komersialisasi produk
+            {">"}6, sehingga kuantitas hilirisasi dan komersialisasi produk
             penelitian lebih meningkat. Dengan demikian, produk-produk hasil
             penelitian ini dapat mendorong lebih banyaknya startup yang
             dibentuk.

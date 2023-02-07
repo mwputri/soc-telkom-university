@@ -15,6 +15,8 @@ import LabRiset from './pages/Lab-Riset/Lab-Riset'
 import PrestasiMahasiswa from './pages/Prestasi-Mahasiswa/Prestasi-Mahasiswa'
 import PrestasiDosen from './pages/Prestasi-Dosen/Prestasi-Dosen'
 import StaffAdministrasi from 'pages/Staff-Administrasi/Staff-Administrasi';
+import rpmDS from './pages/Pengabdian-Masyarakat/rpm/rpm-ds/rpm-ds'
+import rpmSE from './pages/Pengabdian-Masyarakat/rpm/rpm-se/rpm-se'
 import DataPD from 'assets/data/pd.json'
 import DataPM from 'assets/data/pm.json'
 import DataSA from 'assets/data/sa.json'
@@ -46,7 +48,8 @@ function App() {
                 <Route path="/Lab-Riset" element={<LabRiset data={lectureData} handleChange={handleSearch}/>}/>
                 <Route path="/Prestasi-Mahasiswa" element={<PrestasiMahasiswa data={lectureData} handleChange={handleSearch}/>}/>
                 <Route path="/Prestasi-Dosen" element={<PrestasiDosen data={lectureData} handleChange={handleSearch}/>}/>
-                <Route path="/Staff-Administrasi" element={<StaffAdministrasi data={lectureData} handleChange={handleSearch}/>}/>
+                <Route path="/rpm-ds" element={<rpmDS data={lectureData} handleChange={handleSearch}/>}/>
+                <Route path="/rpm-se" element={<rpmSE data={lectureData} handleChange={handleSearch}/>}/>
             </Routes>
             <Footer/>
 
