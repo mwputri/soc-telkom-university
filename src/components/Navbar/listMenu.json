@@ -132,7 +132,7 @@
       {
         "path": "/",
         "name": "Kelompok Keahlian",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "https://datascience.rg.telkomuniversity.ac.id/landing/",
             "name": "Data Science"
@@ -158,7 +158,7 @@
       {
         "path": "/",
         "name": "Kegitan Penelitian",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "/",
             "name": "Data Science"
@@ -180,7 +180,7 @@
       {
         "path": "/",
         "name": "Rencana Penelitian",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "/",
             "name": "Data Science"
@@ -202,7 +202,7 @@
       {
         "path": "/",
         "name": "Konfrensi",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "https://www.icoict.org/",
             "name": "ICoICT"
@@ -224,7 +224,7 @@
       {
         "path": "/",
         "name": "Jurnal",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "https://socj.telkomuniversity.ac.id/ojs/index.php/ijoict/index",
             "name": "IJoICT"
@@ -244,7 +244,7 @@
       {
         "path": "/",
         "name": "Rencana Pengabdian Masyarakat",
-        "SubMenu" : [
+        "SubMenu": [
           {
             "path": "/rpm-ds",
             "name": "Data Science"

@@ -12,8 +12,6 @@ import i8 from "assets/gallery/8.webp"
 import AliceCarousel from "react-alice-carousel";
 
 
-
-
 const Sambutan = () => {
     const responsive = {
         0: {items: 1},
@@ -162,13 +160,15 @@ const Sambutan = () => {
                                     <a href="#" className="">
                                         <h5 className="text-2xl text-left  tracking-tight text-gray-900  ">Video
                                             Profil</h5>
-                                        <iframe className="mb-5" width="350" height="200" src="https://www.youtube.com/embed/OHWlmg1WEXY"
+                                        <iframe className="mb-5" width="350" height="200"
+                                                src="https://www.youtube.com/embed/OHWlmg1WEXY"
                                                 title="YouTube video player"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 allowFullScreen></iframe>
                                     </a>
                                     <a href="#">
-                                        <h5 className="text-2xl text-left  tracking-tight text-gray-900  ">Galeri Fakultas</h5>
+                                        <h5 className="text-2xl text-left  tracking-tight text-gray-900  ">Galeri
+                                            Fakultas</h5>
                                         <AliceCarousel
                                             autoPlay
                                             autoPlayStrategy="none"
