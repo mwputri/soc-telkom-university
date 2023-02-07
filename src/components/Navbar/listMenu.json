@@ -246,7 +246,7 @@
         "name": "Rencana Pengabdian Masyarakat",
         "SubMenu": [
           {
-            "path": "/",
+            "path": "/rpm-ds",
             "name": "Data Science"
           },
           {
@@ -268,7 +268,7 @@
         "name": "Program Pengabdian Masyarakat"
       },
       {
-        "path": "/",
+        "path": "https://hof.telkomuniversity.ac.id/community-service/",
         "name": "Galeri Pengabdian Masyarakat"
       }
     ]
