@@ -9,13 +9,13 @@ import dekan5 from "../../assets/img/dekan/dekan5.webp";
 import "./Sejarah.css";
 
 const Sejarah = () => {
-  return (
-    <div>
-      <div className="p-lg-5" style={{ overflowX: "auto" }}>
-        <div className="container sejarah">
-          <img className="sejarah" src={img1} alt="image description" />
-          <br></br>
-          <div className="content-sejarah">
+    return (
+        <div>
+            <div className="p-lg-5" style={{overflowX: "auto"}}>
+                <div className="container sejarah">
+                    <img className="sejarah" src={img1} alt="image description"/>
+                    <br></br>
+                    <div className="content-sejarah">
             <span>
               Fakultas Informatika berawal dari program studi S1 Teknik
               Informatika yang berada dibawah Sekolah Tinggi Teknologi Telkom
@@ -64,56 +64,56 @@ const Sejarah = () => {
               Excellent Integrity (HEI) untuk menjamin pondasi yang kokoh dalam
               mewujudkan visi Fakultas Informatika tahun 2023.
             </span>
-          </div>
-          <div className="dekan-sejarah">
-            <h2>Sejarah Dekan Fakultas Informatika</h2>
-            <div className="row-sejarah">
-              <div className="col-sejarah">
-                <img className="dekan" src={dekan1} alt="" />
-                <h4>
-                  <strong>Dr. Z.K. Abdurahman Baizal, S.Si., M.Kom</strong>
-                </h4>
-                <p>( Periode 1 Des 2019-Sekarang)</p>
-              </div>
-              <div className="col-sejarah">
-                <img className="dekan" src={dekan2} alt="" />
-                <h4>
-                  <strong>Prof. Dr. Maman Abdurohman, S.T., M.T</strong>
-                </h4>
-                <p>( Periode 2014-2019)</p>
-              </div>
-              <div className="col-sejarah">
-                <img className="dekan" src={dekan3} alt="" />
-                <h4>
-                  <strong>Ir. Sri Widowati., M.T</strong>
-                </h4>
-                <p>( Periode 2010-2013)</p>
-              </div>
-              <div className="col-sejarah">
-                <img className="dekan" src={dekan4} alt="" />
-                <h4>
-                  <strong>Fazmah Arif Yilianto, S.T., M.T</strong>
-                </h4>
-                <p>
-                  (2008 – 2009 : Ketua Departemen Teknik Informatika, ITTelkom)
-                  <br></br>(2009 – 2010 : Dekan Fakultas Informatika, ITTelkom.)
-                  <br></br>(Periode 2013-2014) : Ketua Departemen Informatika,
-                  Fakultas Teknik, Universitas Telkom
-                </p>
-              </div>
-              <div className="col-sejarah">
-                <img className="dekan" src={dekan5} alt="" />
-                <h4>
-                  <strong>Dhinta Darmantoro , S.T., M.T</strong>
-                </h4>
-                <p>Periode sampai -2008</p>
-              </div>
+                    </div>
+                    <div className="dekan-sejarah">
+                        <h2>Sejarah Dekan Fakultas Informatika</h2>
+                        <div className="row-sejarah">
+                            <div className="col-sejarah">
+                                <img className="dekan" src={dekan1} alt=""/>
+                                <h4>
+                                    <strong>Dr. Z.K. Abdurahman Baizal, S.Si., M.Kom</strong>
+                                </h4>
+                                <p>( Periode 1 Des 2019-Sekarang)</p>
+                            </div>
+                            <div className="col-sejarah">
+                                <img className="dekan" src={dekan2} alt=""/>
+                                <h4>
+                                    <strong>Prof. Dr. Maman Abdurohman, S.T., M.T</strong>
+                                </h4>
+                                <p>( Periode 2014-2019)</p>
+                            </div>
+                            <div className="col-sejarah">
+                                <img className="dekan" src={dekan3} alt=""/>
+                                <h4>
+                                    <strong>Ir. Sri Widowati., M.T</strong>
+                                </h4>
+                                <p>( Periode 2010-2013)</p>
+                            </div>
+                            <div className="col-sejarah">
+                                <img className="dekan" src={dekan4} alt=""/>
+                                <h4>
+                                    <strong>Fazmah Arif Yilianto, S.T., M.T</strong>
+                                </h4>
+                                <p>
+                                    (2008 – 2009 : Ketua Departemen Teknik Informatika, ITTelkom)
+                                    <br></br>(2009 – 2010 : Dekan Fakultas Informatika, ITTelkom.)
+                                    <br></br>(Periode 2013-2014) : Ketua Departemen Informatika,
+                                    Fakultas Teknik, Universitas Telkom
+                                </p>
+                            </div>
+                            <div className="col-sejarah">
+                                <img className="dekan" src={dekan5} alt=""/>
+                                <h4>
+                                    <strong>Dhinta Darmantoro , S.T., M.T</strong>
+                                </h4>
+                                <p>Periode sampai -2008</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </div>
-  );
+    );
 };
 
 export default Sejarah;

@@ -1,164 +1,164 @@
 [
-    {
-        "No" : 1,
-        "Nama_Kompetisi_dan_Prestasi" : "BEM Fakultas Ilmu Komputer UPN",
-        "NIM_dan_Nama" : "1301190350-Rifqiandi Cesario Putra",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "BEM Fakultas Ilmu Komputer UPN",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://drive.google.com/open?id=1vaHbnr6uiNX0c4R0_28L-We0RQSrFd2w"
-    },
-    {
-        "No" : 2,
-        "Nama_Kompetisi_dan_Prestasi" : "Ministry Education of India",
-        "NIM_dan_Nama" : "1301184094-Risma Julia Wardany",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "Ministry Education of India",
-        "Kategori_Juara" : "Juara 1",
-        "URL_Penyelenggara" : "https://drive.google.com/open?id=1jAHrq8grDVIw5ryTvM23oaIHjtPgaCIG"
-    },
-    {
-        "No" : 3,
-        "Nama_Kompetisi_dan_Prestasi" : "Hartsa",
-        "NIM_dan_Nama" : "1301184371-Miftah Shidqi Rabbani",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "Hartsa",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://drive.google.com/open?id=1JdhhDtekqC0JLzMwzv5IEAdu9cE6AlpA"
-    },
-    {
-        "No" : 4,
-        "Nama_Kompetisi_dan_Prestasi" : "UI/UX Design",
-        "NIM_dan_Nama" : "1302194013-Fathuddin Ashari Amir",
-        "Tingkat" : " ",
-        "Penyelenggara" : " ",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://drive.google.com/open?id=1cU-eeLTb3zoetYEmuXnF5b9iCnA3niec"
-    },
-    {
-        "No" : 5,
-        "Nama_Kompetisi_dan_Prestasi" : "Youth Economic Leadership Forum 2021 – Partisipan",
-        "NIM_dan_Nama" : "1301170421 – IGNATIUS EUNICHO SANTOSO",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Bank Indonesia Institute",
-        "Kategori_Juara" : "Partisipan",
-        "URL_Penyelenggara" : "https://www.instagram.com/yelprogramid/"
-    },
-    {
-        "No" : 6,
-        "Nama_Kompetisi_dan_Prestasi" : "Apicta",
-        "NIM_dan_Nama" : "1301184371 – MIFTAH SHIDQI RABBANI",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "Apicta",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://apicta.org/"
-    },
-    {
-        "No" : 7,
-        "Nama_Kompetisi_dan_Prestasi" : "Pekan Olahraga Nasional XX (PON XX) 2021",
-        "NIM_dan_Nama" : "1301210302 – KEY IMMANUEL",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Komite Olahraga Nasional Indonesia (KONI)",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://www.perkemi.org/event/daftar-event/details/2021-10-09/13-pekan-olahraga-nasional-xx-papua-2021"
-    },
-    {
-        "No" : 8,
-        "Nama_Kompetisi_dan_Prestasi" : "Bussines Plan 2021",
-        "NIM_dan_Nama" : "1301194137 – SYIFA FAUZIAH",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Universitas Negri Yogyakarta",
-        "Kategori_Juara" : "Partisipan",
-        "URL_Penyelenggara" : "http://instagram.com/eightterprise.eo"
-    },
-    {
-        "No" : 9,
-        "Nama_Kompetisi_dan_Prestasi" : "Dinacom 2021 2021 – Juara 2",
-        "NIM_dan_Nama" : "1301204058 – MUHAMMAD RIZKI ANDIKA ",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Universitas Dian Nuswantoro Semarang",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://drive.google.com/drive/folders/1HKwMsWcKHvkUsELVfr0084My_IdSI2v5?usp=sharing"
-    },
-    {
-        "No" : 10,
-        "Nama_Kompetisi_dan_Prestasi" : "Hackathon Maritime 2021 2021 – Partisipan",
-        "NIM_dan_Nama" : "1301183507 – R. ARDITYO CAHYO PUTRO HUTOMO",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Dinas Pembinaan Potensi Maritim Markas Besar AL (Dispotmar Mabesal)",
-        "Kategori_Juara" : "Partisipan",
-        "URL_Penyelenggara" : "https://www.hackathonmaritim.id/"
-    },
-    {
-        "No" : 11,
-        "Nama_Kompetisi_dan_Prestasi" : "Hackathon Maritim 2021 2021 – Partisipan",
-        "NIM_dan_Nama" : "1301184336 – ARYA PRATAMA ANUGERAH RAHMADYAN",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Dinas Pembinaan Potensi Maritim Markas Besar Angkatan Laut (Dispotmar Mabesal)",
-        "Kategori_Juara" : "Partisipan",
-        "URL_Penyelenggara" : "https://hackathonmaritim.id/"
-    },
-    {
-        "No" : 12,
-        "Nama_Kompetisi_dan_Prestasi" : "Hackathon Maritim 2021 2021 – Partisipan",
-        "NIM_dan_Nama" : "1301184241 – BAYU MUHAMMAD IQBAL",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Dinas Pembinaan Potensi Maritim Markas Besar Angkatan Laut (Dispotmar Mabesal)",
-        "Kategori_Juara" : "Partisipan",
-        "URL_Penyelenggara" : "https://hackathonmaritim.id/"
-    },
-    {
-        "No" : 13,
-        "Nama_Kompetisi_dan_Prestasi" : "ASEAN India Hackaton 2020 2021 – Juara 2",
-        "NIM_dan_Nama" : "1301198513 – ANDY MAULANA YUSUF",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "Hon’ble Prime Minister of India Mr. Narendra Modi",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : "https://india-asean.mic.gov.in/"
-    },
-    {
-        "No" : 14,
-        "Nama_Kompetisi_dan_Prestasi" : "International Conference on Cryptography, Security, and Privacy 2022",
-        "NIM_dan_Nama" : "JIHAN LAILATUL ATIQOH",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "International Conference on Cryptography, Security, and Privacy 2022",
-        "Kategori_Juara" : "BEST PRESENTATION AWARD",
-        "URL_Penyelenggara" : "https://ieeexplore.ieee.org/xpl/conhome/9844828/proceeding"
-    },
-    {
-        "No" : 15,
-        "Nama_Kompetisi_dan_Prestasi" : "Pembuatan Web LLDIKTI Wilayah IV pada acara Gebyar LLDIKTI4 Tahun 2022",
-        "NIM_dan_Nama" : "Ramadhan oktovivian muhammad, Natalie diva krisantya, Abdul azis al ayubbi",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "LLDIKTI4",
-        "Kategori_Juara" : "Juara 1",
-        "URL_Penyelenggara" : " "
-    },
-    {
-        "No" : 16,
-        "Nama_Kompetisi_dan_Prestasi" : "Sinarmas Tech Connect Hackathon #batch 3",
-        "NIM_dan_Nama" : "Alifya Difa Afasyah, Alfara Nafi Dinara",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "Sinarmas",
-        "Kategori_Juara" : "Juara 3",
-        "URL_Penyelenggara" : " "
-    },
-    {
-        "No" : 17,
-        "Nama_Kompetisi_dan_Prestasi" : "CTF COMPFEST 14",
-        "NIM_dan_Nama" : "Bagas Mukti Wibowo, Nizam Abdullah, Habib Bahruddi",
-        "Tingkat" : "Nasional",
-        "Penyelenggara" : "CTF COMPFEST",
-        "Kategori_Juara" : "Juara 2",
-        "URL_Penyelenggara" : " "
-    },
-    {
-        "No" : 18,
-        "Nama_Kompetisi_dan_Prestasi" : "Asia Pasific ICT Alliance (APICTA) Awards 2022 Pakistan.",
-        "NIM_dan_Nama" : "I Putu Bagus Erix Wijaya, Mar’i Fauzan Rambe, Michael Fernandito Sanfia, Adelio Ferhan Soebroto, Muhammad Rafli Ramadhan, Nariswari Yoga Nandita, Nur Afina Rahmani, Wandi Yusuf Kurniawan",
-        "Tingkat" : "Internasional",
-        "Penyelenggara" : "Asia Pasific ICT Alliance (APICTA)",
-        "Kategori_Juara" : "Medali Perak",
-        "URL_Penyelenggara" : ""
-    }
+  {
+    "No": 1,
+    "Nama_Kompetisi_dan_Prestasi": "BEM Fakultas Ilmu Komputer UPN",
+    "NIM_dan_Nama": "1301190350-Rifqiandi Cesario Putra",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "BEM Fakultas Ilmu Komputer UPN",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://drive.google.com/open?id=1vaHbnr6uiNX0c4R0_28L-We0RQSrFd2w"
+  },
+  {
+    "No": 2,
+    "Nama_Kompetisi_dan_Prestasi": "Ministry Education of India",
+    "NIM_dan_Nama": "1301184094-Risma Julia Wardany",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "Ministry Education of India",
+    "Kategori_Juara": "Juara 1",
+    "URL_Penyelenggara": "https://drive.google.com/open?id=1jAHrq8grDVIw5ryTvM23oaIHjtPgaCIG"
+  },
+  {
+    "No": 3,
+    "Nama_Kompetisi_dan_Prestasi": "Hartsa",
+    "NIM_dan_Nama": "1301184371-Miftah Shidqi Rabbani",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "Hartsa",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://drive.google.com/open?id=1JdhhDtekqC0JLzMwzv5IEAdu9cE6AlpA"
+  },
+  {
+    "No": 4,
+    "Nama_Kompetisi_dan_Prestasi": "UI/UX Design",
+    "NIM_dan_Nama": "1302194013-Fathuddin Ashari Amir",
+    "Tingkat": " ",
+    "Penyelenggara": " ",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://drive.google.com/open?id=1cU-eeLTb3zoetYEmuXnF5b9iCnA3niec"
+  },
+  {
+    "No": 5,
+    "Nama_Kompetisi_dan_Prestasi": "Youth Economic Leadership Forum 2021 – Partisipan",
+    "NIM_dan_Nama": "1301170421 – IGNATIUS EUNICHO SANTOSO",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Bank Indonesia Institute",
+    "Kategori_Juara": "Partisipan",
+    "URL_Penyelenggara": "https://www.instagram.com/yelprogramid/"
+  },
+  {
+    "No": 6,
+    "Nama_Kompetisi_dan_Prestasi": "Apicta",
+    "NIM_dan_Nama": "1301184371 – MIFTAH SHIDQI RABBANI",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "Apicta",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://apicta.org/"
+  },
+  {
+    "No": 7,
+    "Nama_Kompetisi_dan_Prestasi": "Pekan Olahraga Nasional XX (PON XX) 2021",
+    "NIM_dan_Nama": "1301210302 – KEY IMMANUEL",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Komite Olahraga Nasional Indonesia (KONI)",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://www.perkemi.org/event/daftar-event/details/2021-10-09/13-pekan-olahraga-nasional-xx-papua-2021"
+  },
+  {
+    "No": 8,
+    "Nama_Kompetisi_dan_Prestasi": "Bussines Plan 2021",
+    "NIM_dan_Nama": "1301194137 – SYIFA FAUZIAH",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Universitas Negri Yogyakarta",
+    "Kategori_Juara": "Partisipan",
+    "URL_Penyelenggara": "http://instagram.com/eightterprise.eo"
+  },
+  {
+    "No": 9,
+    "Nama_Kompetisi_dan_Prestasi": "Dinacom 2021 2021 – Juara 2",
+    "NIM_dan_Nama": "1301204058 – MUHAMMAD RIZKI ANDIKA ",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Universitas Dian Nuswantoro Semarang",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://drive.google.com/drive/folders/1HKwMsWcKHvkUsELVfr0084My_IdSI2v5?usp=sharing"
+  },
+  {
+    "No": 10,
+    "Nama_Kompetisi_dan_Prestasi": "Hackathon Maritime 2021 2021 – Partisipan",
+    "NIM_dan_Nama": "1301183507 – R. ARDITYO CAHYO PUTRO HUTOMO",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Dinas Pembinaan Potensi Maritim Markas Besar AL (Dispotmar Mabesal)",
+    "Kategori_Juara": "Partisipan",
+    "URL_Penyelenggara": "https://www.hackathonmaritim.id/"
+  },
+  {
+    "No": 11,
+    "Nama_Kompetisi_dan_Prestasi": "Hackathon Maritim 2021 2021 – Partisipan",
+    "NIM_dan_Nama": "1301184336 – ARYA PRATAMA ANUGERAH RAHMADYAN",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Dinas Pembinaan Potensi Maritim Markas Besar Angkatan Laut (Dispotmar Mabesal)",
+    "Kategori_Juara": "Partisipan",
+    "URL_Penyelenggara": "https://hackathonmaritim.id/"
+  },
+  {
+    "No": 12,
+    "Nama_Kompetisi_dan_Prestasi": "Hackathon Maritim 2021 2021 – Partisipan",
+    "NIM_dan_Nama": "1301184241 – BAYU MUHAMMAD IQBAL",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Dinas Pembinaan Potensi Maritim Markas Besar Angkatan Laut (Dispotmar Mabesal)",
+    "Kategori_Juara": "Partisipan",
+    "URL_Penyelenggara": "https://hackathonmaritim.id/"
+  },
+  {
+    "No": 13,
+    "Nama_Kompetisi_dan_Prestasi": "ASEAN India Hackaton 2020 2021 – Juara 2",
+    "NIM_dan_Nama": "1301198513 – ANDY MAULANA YUSUF",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "Hon’ble Prime Minister of India Mr. Narendra Modi",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": "https://india-asean.mic.gov.in/"
+  },
+  {
+    "No": 14,
+    "Nama_Kompetisi_dan_Prestasi": "International Conference on Cryptography, Security, and Privacy 2022",
+    "NIM_dan_Nama": "JIHAN LAILATUL ATIQOH",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "International Conference on Cryptography, Security, and Privacy 2022",
+    "Kategori_Juara": "BEST PRESENTATION AWARD",
+    "URL_Penyelenggara": "https://ieeexplore.ieee.org/xpl/conhome/9844828/proceeding"
+  },
+  {
+    "No": 15,
+    "Nama_Kompetisi_dan_Prestasi": "Pembuatan Web LLDIKTI Wilayah IV pada acara Gebyar LLDIKTI4 Tahun 2022",
+    "NIM_dan_Nama": "Ramadhan oktovivian muhammad, Natalie diva krisantya, Abdul azis al ayubbi",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "LLDIKTI4",
+    "Kategori_Juara": "Juara 1",
+    "URL_Penyelenggara": " "
+  },
+  {
+    "No": 16,
+    "Nama_Kompetisi_dan_Prestasi": "Sinarmas Tech Connect Hackathon #batch 3",
+    "NIM_dan_Nama": "Alifya Difa Afasyah, Alfara Nafi Dinara",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "Sinarmas",
+    "Kategori_Juara": "Juara 3",
+    "URL_Penyelenggara": " "
+  },
+  {
+    "No": 17,
+    "Nama_Kompetisi_dan_Prestasi": "CTF COMPFEST 14",
+    "NIM_dan_Nama": "Bagas Mukti Wibowo, Nizam Abdullah, Habib Bahruddi",
+    "Tingkat": "Nasional",
+    "Penyelenggara": "CTF COMPFEST",
+    "Kategori_Juara": "Juara 2",
+    "URL_Penyelenggara": " "
+  },
+  {
+    "No": 18,
+    "Nama_Kompetisi_dan_Prestasi": "Asia Pasific ICT Alliance (APICTA) Awards 2022 Pakistan.",
+    "NIM_dan_Nama": "I Putu Bagus Erix Wijaya, Mar’i Fauzan Rambe, Michael Fernandito Sanfia, Adelio Ferhan Soebroto, Muhammad Rafli Ramadhan, Nariswari Yoga Nandita, Nur Afina Rahmani, Wandi Yusuf Kurniawan",
+    "Tingkat": "Internasional",
+    "Penyelenggara": "Asia Pasific ICT Alliance (APICTA)",
+    "Kategori_Juara": "Medali Perak",
+    "URL_Penyelenggara": ""
+  }
 ]

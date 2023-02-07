@@ -24,7 +24,7 @@ const InfoGraphic = () => {
                             <p className="text-sm lg:text-2xl">Dosen</p>
                         </span>
                     </li>
-                    <li className="flex w-1/2 lg:w-auto items-center justify-center lg:px-4 lg:pt-5" >
+                    <li className="flex w-1/2 lg:w-auto items-center justify-center lg:px-4 lg:pt-5">
 
                         <span>
                             <h3 className="text-base lg:text-5xl leading-tight">8</h3>

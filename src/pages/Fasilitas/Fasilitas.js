@@ -33,53 +33,53 @@ import fasilitas26 from "../../assets/img/fasilitas/fasilitas26.webp";
 import fasilitas27 from "../../assets/img/fasilitas/fasilitas27.webp";
 
 const Fasilitas = () => {
-  return (
-    <div>
-      <div className="p-lg-5" style={{ overflowX: "auto" }}>
-        <div className="content-fasilitas">
-          <h2>Gedung Perkulihan</h2>
-          <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
-            <img className="lg:w-40 mt-8" src={fasilitas1} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas2} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas3} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas4} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas5} alt="" />
-          </div>
-          <h2>Laboratorium Riset</h2>
-          <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
-            <img className="lg:w-40 mt-8" src={fasilitas6} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas7} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas8} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas9} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas10} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas11} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas12} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas13} alt="" />
-          </div>
-          <h2>Fasilitas Olahraga</h2>
-          <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
-            <img className="lg:w-40 mt-8" src={fasilitas14} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas15} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas16} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas17} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas18} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas19} alt="" />
-          </div>
-          <h2>Lingkungan Fakultas Informatika</h2>
-          <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
-            <img className="lg:w-40 mt-8" src={fasilitas20} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas21} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas22} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas23} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas24} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas25} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas26} alt="" />
-            <img className="lg:w-40 mt-8" src={fasilitas27} alt="" />
-          </div>
+    return (
+        <div>
+            <div className="p-lg-5" style={{overflowX: "auto"}}>
+                <div className="content-fasilitas">
+                    <h2>Gedung Perkulihan</h2>
+                    <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
+                        <img className="lg:w-40 mt-8" src={fasilitas1} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas2} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas3} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas4} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas5} alt=""/>
+                    </div>
+                    <h2>Laboratorium Riset</h2>
+                    <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
+                        <img className="lg:w-40 mt-8" src={fasilitas6} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas7} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas8} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas9} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas10} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas11} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas12} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas13} alt=""/>
+                    </div>
+                    <h2>Fasilitas Olahraga</h2>
+                    <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
+                        <img className="lg:w-40 mt-8" src={fasilitas14} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas15} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas16} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas17} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas18} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas19} alt=""/>
+                    </div>
+                    <h2>Lingkungan Fakultas Informatika</h2>
+                    <div className="m-auto flex flex-col lg:flex-row items-center justify-evenly w-full">
+                        <img className="lg:w-40 mt-8" src={fasilitas20} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas21} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas22} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas23} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas24} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas25} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas26} alt=""/>
+                        <img className="lg:w-40 mt-8" src={fasilitas27} alt=""/>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  );
+    );
 };
 
 export default Fasilitas;

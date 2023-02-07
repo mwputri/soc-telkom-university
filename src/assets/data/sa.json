@@ -1,135 +1,135 @@
 [
-    {
-        "No" : 1,
-        "NAMA" : "Ajid awaludin, S.AP",
-        "NIP" : "1820060",
-        "POSISI_KERJA" : "Layanan Akademik",
-        "EMAIL" : "ajidaw@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 2,
-        "NAMA" : "Asep Fitrijatna",
-        "NIP" : "3710050",
-        "POSISI_KERJA" : "Layanan Akademik",
-        "EMAIL" : "asepfitri@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 3,
-        "NAMA" : "Anim",
-        "NIP" : "3710034",
-        "POSISI_KERJA" : "Logistik Fakultas",
-        "EMAIL" : "anim.sudiono75@gmail.com"
-    },
-    {
-        "No" : 4,
-        "NAMA" : "Ami Rahmi Fatimah, S.Kom.",
-        "NIP" : "19940045",
-        "POSISI_KERJA" : "Layanan Kemahasiswaan",
-        "EMAIL" : "rahmiami417@gmail.com"
-    },
-    {
-        "No" : 5,
-        "NAMA" : "Iwan Kurniawan",
-        "NIP" : "93700014",
-        "POSISI_KERJA" : "Layanan Akademik",
-        "EMAIL" : "putusudiksa@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 6,
-        "NAMA" : "M. Ferby Aridlo, S.Kom.",
-        "NIP" : "19900031",
-        "POSISI_KERJA" : "Sekretariat Pimpinan",
-        "EMAIL" : "mferbya@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 7,
-        "NAMA" : "Nani",
-        "NIP" : "97720020",
-        "POSISI_KERJA" : "Sekretariat Pimpinan",
-        "EMAIL" : "nanibk@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 8,
-        "NAMA" : "I Putu Sudiksa, S.Kom.",
-        "NIP" : "97730020",
-        "POSISI_KERJA" : "Layanan Akademik",
-        "EMAIL" : "putusudiksa@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 9,
-        "NAMA" : "Oku Dewi Noviantika Putri, S.T.",
-        "NIP" : "16890083",
-        "POSISI_KERJA" : "Laboran",
-        "EMAIL" : "okudewinoviyantika@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 10,
-        "NAMA" : "Santi Susanti",
-        "NIP" : "91680046",
-        "POSISI_KERJA" : "SDM Fakultas",
-        "EMAIL" : "santiss248@gmail.com"
-    },
-    {
-        "No" : 11,
-        "NAMA" : "Sandi Muhamad Nasir",
-        "NIP" : "770008",
-        "POSISI_KERJA" : "SDM Fakultas",
-        "EMAIL" : "sandilpng@gmail.com"
-    },
-    {
-        "No" : 12,
-        "NAMA" : "Ri Handayani, S.T., M.Kom.",
-        "NIP" : "15860063",
-        "POSISI_KERJA" : "Pascasarjana",
-        "EMAIL" : "rie.klaniz7@gmail.com"
-    },
-    {
-        "No" : 13,
-        "NAMA" : "Tri Usadi Prasetyo",
-        "NIP" : "1750018",
-        "POSISI_KERJA" : "Layanan Akademik",
-        "EMAIL" : "usaditri75@gmail.com"
-    },
-    {
-        "No" : 14,
-        "NAMA" : "Reza Restinda, A. MD.",
-        "NIP" : "19950039",
-        "POSISI_KERJA" : "Sekretariat Pimpinan",
-        "EMAIL" : "rezarestinda@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 15,
-        "NAMA" : "Mutiara Rizka Nasution, S.Kom.",
-        "NIP" : "21970005",
-        "POSISI_KERJA" : "Urusan Akademik FIF",
-        "EMAIL" : "mutiararnst@gmail.com"
-    },
-    {
-        "No" : 16,
-        "NAMA" : "Renaning Karutami Susilo, S.Kom.",
-        "NIP" : "21990001",
-        "POSISI_KERJA" : "Program Studi S1 Teknologi Informasi",
-        "EMAIL" : "renaning.99@gmail.com"
-    },
-    {
-        "No" : 17,
-        "NAMA" : "Hasmita S, S.Kom.",
-        "NIP" : "21970027",
-        "POSISI_KERJA" : "Program Studi S1 Informatika",
-        "EMAIL" : "hasmits@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 18,
-        "NAMA" : "Fairuz Zahra, Amd.Kom.",
-        "NIP" : "21970024",
-        "POSISI_KERJA" : "SDM Fakultas",
-        "EMAIL" : "faizahrah@telkomuniversity.ac.id"
-    },
-    {
-        "No" : 19,
-        "NAMA" : "Sari Rahmawati",
-        "NIP" : "11830049",
-        "POSISI_KERJA" : "Ka.Ur SDM Fakultas",
-        "EMAIL" : "sarirahmawati@telkomuniversity.ac.id"
-    }
+  {
+    "No": 1,
+    "NAMA": "Ajid awaludin, S.AP",
+    "NIP": "1820060",
+    "POSISI_KERJA": "Layanan Akademik",
+    "EMAIL": "ajidaw@telkomuniversity.ac.id"
+  },
+  {
+    "No": 2,
+    "NAMA": "Asep Fitrijatna",
+    "NIP": "3710050",
+    "POSISI_KERJA": "Layanan Akademik",
+    "EMAIL": "asepfitri@telkomuniversity.ac.id"
+  },
+  {
+    "No": 3,
+    "NAMA": "Anim",
+    "NIP": "3710034",
+    "POSISI_KERJA": "Logistik Fakultas",
+    "EMAIL": "anim.sudiono75@gmail.com"
+  },
+  {
+    "No": 4,
+    "NAMA": "Ami Rahmi Fatimah, S.Kom.",
+    "NIP": "19940045",
+    "POSISI_KERJA": "Layanan Kemahasiswaan",
+    "EMAIL": "rahmiami417@gmail.com"
+  },
+  {
+    "No": 5,
+    "NAMA": "Iwan Kurniawan",
+    "NIP": "93700014",
+    "POSISI_KERJA": "Layanan Akademik",
+    "EMAIL": "putusudiksa@telkomuniversity.ac.id"
+  },
+  {
+    "No": 6,
+    "NAMA": "M. Ferby Aridlo, S.Kom.",
+    "NIP": "19900031",
+    "POSISI_KERJA": "Sekretariat Pimpinan",
+    "EMAIL": "mferbya@telkomuniversity.ac.id"
+  },
+  {
+    "No": 7,
+    "NAMA": "Nani",
+    "NIP": "97720020",
+    "POSISI_KERJA": "Sekretariat Pimpinan",
+    "EMAIL": "nanibk@telkomuniversity.ac.id"
+  },
+  {
+    "No": 8,
+    "NAMA": "I Putu Sudiksa, S.Kom.",
+    "NIP": "97730020",
+    "POSISI_KERJA": "Layanan Akademik",
+    "EMAIL": "putusudiksa@telkomuniversity.ac.id"
+  },
+  {
+    "No": 9,
+    "NAMA": "Oku Dewi Noviantika Putri, S.T.",
+    "NIP": "16890083",
+    "POSISI_KERJA": "Laboran",
+    "EMAIL": "okudewinoviyantika@telkomuniversity.ac.id"
+  },
+  {
+    "No": 10,
+    "NAMA": "Santi Susanti",
+    "NIP": "91680046",
+    "POSISI_KERJA": "SDM Fakultas",
+    "EMAIL": "santiss248@gmail.com"
+  },
+  {
+    "No": 11,
+    "NAMA": "Sandi Muhamad Nasir",
+    "NIP": "770008",
+    "POSISI_KERJA": "SDM Fakultas",
+    "EMAIL": "sandilpng@gmail.com"
+  },
+  {
+    "No": 12,
+    "NAMA": "Ri Handayani, S.T., M.Kom.",
+    "NIP": "15860063",
+    "POSISI_KERJA": "Pascasarjana",
+    "EMAIL": "rie.klaniz7@gmail.com"
+  },
+  {
+    "No": 13,
+    "NAMA": "Tri Usadi Prasetyo",
+    "NIP": "1750018",
+    "POSISI_KERJA": "Layanan Akademik",
+    "EMAIL": "usaditri75@gmail.com"
+  },
+  {
+    "No": 14,
+    "NAMA": "Reza Restinda, A. MD.",
+    "NIP": "19950039",
+    "POSISI_KERJA": "Sekretariat Pimpinan",
+    "EMAIL": "rezarestinda@telkomuniversity.ac.id"
+  },
+  {
+    "No": 15,
+    "NAMA": "Mutiara Rizka Nasution, S.Kom.",
+    "NIP": "21970005",
+    "POSISI_KERJA": "Urusan Akademik FIF",
+    "EMAIL": "mutiararnst@gmail.com"
+  },
+  {
+    "No": 16,
+    "NAMA": "Renaning Karutami Susilo, S.Kom.",
+    "NIP": "21990001",
+    "POSISI_KERJA": "Program Studi S1 Teknologi Informasi",
+    "EMAIL": "renaning.99@gmail.com"
+  },
+  {
+    "No": 17,
+    "NAMA": "Hasmita S, S.Kom.",
+    "NIP": "21970027",
+    "POSISI_KERJA": "Program Studi S1 Informatika",
+    "EMAIL": "hasmits@telkomuniversity.ac.id"
+  },
+  {
+    "No": 18,
+    "NAMA": "Fairuz Zahra, Amd.Kom.",
+    "NIP": "21970024",
+    "POSISI_KERJA": "SDM Fakultas",
+    "EMAIL": "faizahrah@telkomuniversity.ac.id"
+  },
+  {
+    "No": 19,
+    "NAMA": "Sari Rahmawati",
+    "NIP": "11830049",
+    "POSISI_KERJA": "Ka.Ur SDM Fakultas",
+    "EMAIL": "sarirahmawati@telkomuniversity.ac.id"
+  }
 ]
