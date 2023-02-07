@@ -46,8 +46,7 @@ const Navbar = () => {
                                             <li key={"dropdownNavbarLinkDetail" + idSub + "-" + id}
                                                 aria-labelledby={subDetail.SubMenu ? "dropdownNavbarLink" + idSub + "-" + id + subDetail.name : ""}>
                                                 {subDetail.SubMenu ?
-                                                    <div
-                                                        key={(Math.random() + 1).toString(36).substring(7) + "//" + idSub}>
+                                                    <>
                                                         <a id="doubleDropdownButton"
                                                            data-dropdown-toggle="doubleDropdown"
                                                            data-dropdown-placement="right-start" type="button"
@@ -73,7 +72,7 @@ const Navbar = () => {
                                                                 ))}
                                                             </ul>
                                                         </div>
-                                                    </div>
+                                                    </>
                                                     :
                                                     <a href={subDetail.path}
                                                        className="block px-4 py-2 hover:bg-gray-50 hover:text-black text-left">{subDetail.name}
