@@ -73,7 +73,7 @@ const Navbar = () => {
                                                                 ))}
                                                             </ul>
                                                         </div>
-                                                    </>
+                                                    </div>
                                                     :
                                                     <a href={subDetail.path}
                                                        className="block px-4 py-2 hover:bg-gray-50 hover:text-black text-left">{subDetail.name}
