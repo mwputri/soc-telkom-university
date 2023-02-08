@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PrestasiDosen = ({pd, handleChange}) => {
+const PrestasiDosen = ({data, handleChange}) => {
     return (
         <div>
             <div className="input-group px-5 py-3 d-md-block d-lg-none">
@@ -21,9 +21,9 @@ const PrestasiDosen = ({pd, handleChange}) => {
                     </tr>
                     </thead>
                     <tbody>
-                    {pd && pd?.map((d) => (
-                        <tr key={d.NO}>
-                            <td>{d.NO}</td>
+                    {data && data?.map((d) => (
+                        <tr key={d.No}>
+                            <td>{d.No}</td>
                             <td>{d.Nama_Dosen}</td>
                             <td>{d.Prestasi}</td>
                             <td>{d.Tahun}</td>
