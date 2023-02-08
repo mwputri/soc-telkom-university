@@ -1,6 +1,6 @@
 import React from 'react'
 
-const StaffAdministrasi = ({sa, handleChange}) => {
+const StaffAdministrasi = ({data, handleChange}) => {
     return (
         <div>
             <div className="input-group px-5 py-3 d-md-block d-lg-none">
@@ -22,9 +22,9 @@ const StaffAdministrasi = ({sa, handleChange}) => {
                     </tr>
                     </thead>
                     <tbody>
-                    {sa && sa?.map((d) => (
-                        <tr key={d.NO}>
-                            <td>{d.NO}</td>
+                    {data && data?.map((d) => (
+                        <tr key={d.No}>
+                            <td>{d.No}</td>
                             <td>{d.NAMA}</td>
                             <td>{d.NIP}</td>
                             <td>{d.POSISI_KERJA}</td>
