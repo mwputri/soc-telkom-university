@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PrestasiMahasiswa = ({pm, handleChange}) => {
+const PrestasiMahasiswa = ({data, handleChange}) => {
     return (
         <div>
             <div className="input-group px-5 py-3 d-md-block d-lg-none">
@@ -24,9 +24,9 @@ const PrestasiMahasiswa = ({pm, handleChange}) => {
                     </tr>
                     </thead>
                     <tbody>
-                    {pm && pm?.map((m) => (
-                        <tr key={m.NO}>
-                            <td>{m.NO}</td>
+                    {data && data?.map((m) => (
+                        <tr key={m.No}>
+                            <td>{m.No}</td>
                             <td>{m.Nama_Kompetisi_dan_Prestasi}</td>
                             <td>{m.NIM_dan_Nama}</td>
                             <td>{m.Tingkat}</td>
